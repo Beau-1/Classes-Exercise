@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZOTj8LDCVPtZ1jxEFEmmiuh5+GhgwDhPMjdESfF69IclFke+6guakTwYfYRZXxCSBgEoSQN3dw1x53rseQNyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beau\\source\\repos\\Classes-Exercise\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beau\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.11\\microsoft.netcore.app.host.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
